@@ -1,13 +1,9 @@
-# importCodePen
+# Bingo Card Maker
 Blank Repo to copy from CodePen
 
-- Click Clone or download. Copy the url with the clipboard button.
-- Click the "+" in the upper right menu on top of the page and select "Import Repository"
-- Copy url into text box
-- Name your repo.
-- Click "Start Import"
-- Click "Create repository"
-- Copy your HTML code into index.htm
-- Copy your CSS code into default.css
-- Copy your Javascript code into scripts/script.js
-- Add the APIs you used.
+- Click Clone or download to download the HTML code. 
+- Save images in the folder as 1.png, 2.png, etc.
+- Open index.htm in your browser.
+- Specify how many different bingo cards you need to print out.
+- print it using your browser's print feature. You can skip printing the first page.
+
