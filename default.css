@@ -1,4 +1,14 @@
-<style>
-/* paste CSS here */
+table {
+  border-collapse: collapse;
+}
 
-</style>
+table, th, td {
+  border: 1px solid black;
+}
+th {
+  font-size: 32px;
+}
+
+@media print {
+  table {page-break-after: always;}
+}
